@@ -51,3 +51,13 @@ Working through this lab gave me real practice with Splunk administration, SPL q
 I plan to add IDS capabilities with Snort or Suricata, pull in firewall logs, and build a live Splunk dashboard for monitoring. On the certification side I am working toward CompTIA Security+.
 
 Built alongside the Google Cybersecurity Professional Certificate and Loyola University New Orleans Cybersecurity Program.
+
+## Screenshots
+
+![Attack simulation](screenshots/attack-simulation.png)
+
+![Splunk failed logins](screenshots/splunk-failed-logins.png)
+
+![Brute force alert](screenshots/splunk-alert.png)
+
+![Wireshark capture](screenshots/wireshark-capture.png)
